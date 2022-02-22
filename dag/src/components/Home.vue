@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="home">
     <h1>Digital Art Gallery</h1>
     <p>
       your first place to enjoy iraqi art from local iraqi artests.
